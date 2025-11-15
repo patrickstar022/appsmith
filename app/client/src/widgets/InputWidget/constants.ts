@@ -4,6 +4,7 @@ export const InputTypes: { [key: string]: string } = {
   INTEGER: "INTEGER",
   PHONE_NUMBER: "PHONE_NUMBER",
   EMAIL: "EMAIL",
+  COUNTRY_CODE:"COUNTRY_CODE",
   PASSWORD: "PASSWORD",
   CURRENCY: "CURRENCY",
   SEARCH: "SEARCH",
